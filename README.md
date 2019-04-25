@@ -6,3 +6,4 @@
 * [retrying](https://pypi.python.org/pypi/retrying) - 提供一个装饰器函数retry，可以重试报错的函数
 * [pathlib](https://docs.python.org/3/library/pathlib.html) - 处理路径
 * [tqdm](https://pypi.org/project/tqdm/) - 显示进度条
+* [PySnooper](https://github.com/cool-RR/PySnooper) - 调试工具
